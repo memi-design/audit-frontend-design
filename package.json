@@ -1,0 +1,18 @@
+{
+  "name": "@memi-design/skill-audit-frontend-design",
+  "version": "2.5.0",
+  "private": true,
+  "description": "Evidence-backed frontend design review for accessibility, hierarchy, tokens, states, and responsive behavior.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarveshsea/memi.git",
+    "directory": "skills/audit-frontend-design"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "SOURCE.json",
+    "LICENSE"
+  ]
+}

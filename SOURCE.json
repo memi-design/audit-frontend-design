@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "skill": "audit-frontend-design",
+  "sourceRepository": "https://github.com/sarveshsea/memi",
+  "sourceRef": "main",
+  "sourcePath": "skills/audit-frontend-design/SKILL.md",
+  "sourceVersion": "2.5.0",
+  "exportedBy": "scripts/export-focused-skills.mjs",
+  "memiEnhancementIncluded": false
+}
