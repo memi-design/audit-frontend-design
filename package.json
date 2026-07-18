@@ -1,6 +1,6 @@
 {
   "name": "@memi-design/skill-audit-frontend-design",
-  "version": "2.5.0",
+  "version": "2.6.2",
   "private": true,
   "description": "Evidence-backed frontend design review for accessibility, hierarchy, tokens, states, and responsive behavior.",
   "license": "MIT",
